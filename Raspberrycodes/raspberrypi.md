@@ -6,7 +6,7 @@ Este sistema utiliza una Raspberry Pi para controlar distintos módulos relacion
 
 ### 1. `5dmb.py`
 
-- **Función:** Configura el generador de frecuencia **Valon Synth** para emitir a **5 dBm**.
+- **Función:** Configura el generador de frecuencia **Valon Synth** para emitir a **5 dBm** a **3400MHz**.
 - **Requiere:** Librería oficial del Valon Synth disponible en [https://github.com/nrao/ValonSynth](https://github.com/nrao/ValonSynth).
 - **Notas de uso:**  
   - El script ya se encuentra configurado para ejecutar correctamente con la Raspberry Pi.  
