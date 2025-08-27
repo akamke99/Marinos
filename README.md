@@ -6,7 +6,7 @@ Este repositorio contiene los códigos relacionados con el siguiente esquema de 
 
 ## Estructura del repositorio
 
-### 📁 `raspberry/`
+### 📁 `Raspberrycodes/`
 
 Contiene los scripts utilizados para configurar y controlar módulos conectados a la **Raspberry Pi**, incluyendo:
 
