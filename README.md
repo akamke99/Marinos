@@ -14,7 +14,7 @@ Contiene los scripts utilizados para configurar y controlar módulos conectados 
 - Señales PWM para control de hardware externo.
 - Integración opcional de módulo GPS.
 
-### 📁 `signal_hound/`
+### 📁 `signalhound/`
 
 Código que permite la comunicación entre un **PC** y el **analizador de espectro Signal Hound SA Series**.  
 Este módulo facilita la recolección de datos de espectro para análisis posterior.
