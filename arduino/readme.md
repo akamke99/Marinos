@@ -6,8 +6,8 @@ Este código se encarga de **medir la respuesta del diodo** conectado al
 amplificador y registrar las lecturas digitales en un **Arduino**.
 
 En la salida del diodo receptor **HP 8470B** se implementó un **op-amp**
-con filtro DC y un amplificador de alta ganancia, diseñado para trabajar
-con una **señal en DC**.\
+con filtro pasabajos y un amplificador de alta ganancia, diseñado para trabajar
+con una **señal en DC que conmuta a 10 Hz**.\
 El Arduino registra esta señal en el rango de **0--5 V**, con una **tasa
 de muestreo de 50 Hz**.
 
