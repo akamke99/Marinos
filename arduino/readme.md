@@ -20,6 +20,9 @@ dBm**, obteniéndose una curva de comportamiento **exponencial**.\
 Este resultado dificultó un análisis detallado de la salida en DC,
 debido a la alta **sensibilidad del detector**.
 
+
+![Medición: Voltaje vs
+dBm](https://github.com/user-attachments/assets/bf388891-5b7f-4483-ab31-892a06354748)
 ------------------------------------------------------------------------
 
 ## Próximos pasos
@@ -30,6 +33,3 @@ debido a la alta **sensibilidad del detector**.
     caracterización más lineal y precisa.
 
 ------------------------------------------------------------------------
-
-![Medición: Voltaje vs
-dBm](https://github.com/user-attachments/assets/bf388891-5b7f-4483-ab31-892a06354748)
